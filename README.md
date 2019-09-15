@@ -1,4 +1,4 @@
-# Fork & pass tests
+# Fork & pass test
 
 A demo repository to practice forking and passing automated tests.
 
